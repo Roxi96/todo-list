@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,KACE,wBACF,CAEA,kBACA,wBACA,CAEA,OACE,cACF","file":"main.f9b66f5f.chunk.css","sourcesContent":["/* TODO EL CSS VA PARA ACA */\nbody{\n  background-color: rgb(190, 252, 231);\n}\n\n.header-container{\nbackground-color: blueviolet;\n}\n\n.title{\n  font-size: 72px;\n}"]}
